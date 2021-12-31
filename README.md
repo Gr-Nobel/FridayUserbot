@@ -7,18 +7,6 @@
 <a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-## Inspiration & Credits
-* [Userge-X](https://github.com/code-rgb/USERGE-X/contributors)
-* [Userge](https://github.com/UsergeTeam/Userge)
-* [Pokurt](https://github.com/UsergeTeam/Pokurt)
-* [Pyrogram](https://github.com/pyrogram/pyrogram/contributors)
-
-## Code Owners
-* [Chsaiujwal](https://github.com/chsaiujwal)
-* [Aditya](https://github.com/Aditya-XD)
-* [Lakhac](https://github.com/Lakhac)
-* [InukaAsith](https://github.com/InukaAsith)
-* [SHRE-YANSH](https://github.com/SHRE-YANSH)
 
 # String Session - Pyrogram 🖱
 ### Repl 🧨
@@ -34,7 +22,7 @@ $ python(3) string_gen.py
 
 ### Deploying To Heroku / Railway ⚙
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevsExpo/FridayUserBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gr-Nobel/FridayUserbot)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDevsExpo%2FFridayUserBot&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CLOG_GRP%2CMONGO_DB%2CSTRINGSESSION%2CTZ&optionalEnvs=BOT_TOKEN%2CCOMMAND_HANDLER%2CUPSTREAM_REPO&API_HASHDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&API_IDDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&BOT_TOKENDesc=Your+Bot+Token+Obtained+From+%40BotFather.+This+is+Not+Important&COMMAND_HANDLERDesc=Your+Command+Handler.&LOAD_UNOFFICIAL_PLUGINSDesc=Do+You+Wish+To+Load+X-Tra+Plugins%3F&LOG_GRPDesc=A+Group+ID+Where+You+Want+To+Log+Important+Logs.&MONGO_DBDesc=Create+A+Database+In+Mongodb+And+Get+URL.+Make+Sure+To+Enter+Correct+URL%21&STRINGSESSIONDesc=String+Session%2C+Run+string_gen.py+to+get+String+Session.&TZDesc=Your+Time+Zone&LOAD_UNOFFICIAL_PLUGINSDefault=True&TZDefault=Asia%2FKolkata)
 
